@@ -19,4 +19,23 @@ A modern, fully responsive, and clean portfolio website designed to showcase my 
 - JavaScript (Vanilla)
 
 ## 📁 Folder Structure
+├── index.html
+├── css/
+│ └── style.css
+├── images/
+│ └── [All website images]
+├── js/
+│ └── script.js (if any)
+└── README.md
+
+
+## 🚀 How to Run This Project Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Abbasi-codes-hub/portfolio-website-Abbasi-codes-hub.git
+
+cd portfolio-website-Abbasi-codes-hub
+Right click → Open with → Chrome/Edge/Firefox
 
